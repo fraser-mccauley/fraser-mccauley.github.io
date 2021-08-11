@@ -46,3 +46,11 @@ table {
 	border-collapse: collapse;
 	border-spacing: 0;
 }
+
+/* reset complete, actual stylesheet begins HERE*/
+.header-section {
+  padding: 50px;
+  text-align: center;
+  background-color: #70193d;
+  color: white;
+}
